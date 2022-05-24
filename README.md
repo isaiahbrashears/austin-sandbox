@@ -1,5 +1,6 @@
 ### HTML TEMPLATE
 
+<!-- COPY CODE BELOW INTO YOUR HTML FILE -->
 <!doctype html>
 <html lang="en">
   <head>
@@ -15,3 +16,4 @@
     <!-- WHAT YOU WANT TO DISPLAY GOES HERE -->
   </body>
 </html>
+<!--  -->
